@@ -1,6 +1,6 @@
 # Ardie Orden
 
-Software Engineer at Thinking Machines Data Science
+Geospatial solutions and products. You can contact me at ardieorden@gmail.com.
 
 * [LinkedIn](https://linkedin.com/in/ardieorden)
 * [Google Scholar](https://scholar.google.com.ph/citations?user=rWbtd8cAAAAJ&hl=en)
