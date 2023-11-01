@@ -1,9 +1,9 @@
 # Ardie Orden
 
-Geospatial solutions and products. You can contact me at ardieorden@gmail.com.
+Data Operations Engineer @ [Tamr](https://www.tamr.com/). You can contact me at ardieorden@gmail.com.
 
 * [LinkedIn](https://linkedin.com/in/ardieorden)
-* [Google Scholar](https://scholar.google.com.ph/citations?user=rWbtd8cAAAAJ&hl=en)
+* [Google Scholar](https://scholar.google.com/citations?user=Se2SG9kAAAAJ&hl=en   )
 * [GitHub](https://github.com/ardieorden)
 * [Twitter](https://twitter.com/ardieorden)
 
