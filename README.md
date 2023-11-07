@@ -1,6 +1,6 @@
 # Ardie Orden
 
-Data Operations Engineer @ [Tamr](https://www.tamr.com/). You can contact me at ardieorden@gmail.com.
+DataOps Engineer @ [Tamr](https://www.tamr.com/). You can contact me at ardieorden@gmail.com.
 
 * [LinkedIn](https://linkedin.com/in/ardieorden)
 * [Google Scholar](https://scholar.google.com/citations?user=Se2SG9kAAAAJ&hl=en   )
