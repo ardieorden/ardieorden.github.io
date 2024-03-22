@@ -1,6 +1,6 @@
 # Ardie Orden
 
-DataOps Engineer @ [Tamr](https://www.tamr.com/). You can contact me at ardieorden@gmail.com.
+Solutions Engineer at [Tamr](https://www.tamr.com/). You can contact me at ardieorden@gmail.com.
 
 * [LinkedIn](https://linkedin.com/in/ardieorden)
 * [Google Scholar](https://scholar.google.com/citations?user=Se2SG9kAAAAJ&hl=en   )
@@ -21,6 +21,6 @@ DataOps Engineer @ [Tamr](https://www.tamr.com/). You can contact me at ardieord
 ## Blogs
 
 * [Thinking Machines' geospatial data warehouse is now in closed beta](https://stories.thinkingmachin.es/thinking-machines-geospatial-data-warehouse-is-now-in-public-beta/)
-* [6 Use Cases of Geospatial Analytics That Change Your View of the World](https://stories.thinkingmachin.es/6-use-cases-of-geospatial-analytics-that-change-your-view-of-the-world/)
 * [Introducing Geomancer: an open-source library for geospatial feature engineering](https://stories.thinkingmachin.es/geomancer/)
+* [6 Use Cases of Geospatial Analytics That Change Your View of the World](https://stories.thinkingmachin.es/6-use-cases-of-geospatial-analytics-that-change-your-view-of-the-world/)
 * [How did the new one-way-scheme affect BGC’s traffic flow?](https://stories.thinkingmachin.es/bgc-waze-one-way/)
