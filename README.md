@@ -1,6 +1,6 @@
 # Ardie Orden
 
-Solutions Engineer at [Tamr](https://www.tamr.com/). You can contact me at ardieorden@gmail.com.
+Customer Success Engineer @ [Tamr](https://www.tamr.com/).
 
 * [LinkedIn](https://linkedin.com/in/ardieorden)
 * [Google Scholar](https://scholar.google.com/citations?user=Se2SG9kAAAAJ&)
